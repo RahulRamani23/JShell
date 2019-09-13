@@ -1,0 +1,8 @@
+Class name: PrintWorkingDirectory
+Responsibilities:
+* print the absolute path of current working directory
+* update the path to a new directory when directory is changed
+* reset the path to root
+Collaborators:
+Directory
+

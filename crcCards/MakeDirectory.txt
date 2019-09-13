@@ -1,0 +1,8 @@
+Class name: MakeDirectory
+Parent class: PathCheck
+Responsibilities:
+* makes directory at given path
+* makes directory in current working directory
+
+Collaborators: 
+* FileSystem

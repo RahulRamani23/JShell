@@ -1,0 +1,9 @@
+Class name: File
+Parent class: FileType
+
+Responsibilities:
+* store file contents
+* add onto the file contents
+* rewrite the file contents
+* be able to return file contents
+* return copy of itself

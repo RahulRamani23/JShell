@@ -1,0 +1,8 @@
+Class Name: Curl
+
+Responsibilities:
+* Retrieve and create a file given by a URL
+* Save the file in the current working directory
+
+Collaborators:
+* FileType

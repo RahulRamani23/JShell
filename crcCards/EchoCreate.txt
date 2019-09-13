@@ -1,0 +1,4 @@
+Class name: EchoCreate
+Parent class: EchoAppend
+Responsibilities:
+* Delete given file if it already exists

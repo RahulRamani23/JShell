@@ -1,0 +1,10 @@
+Class name: FileSystem
+
+Responsibilities:
+* store the root directory
+* store working directory
+* return the root and working directory
+* change the working directory
+
+Collaborators:
+* Directory

@@ -1,0 +1,23 @@
+Class name: ParseCommand
+
+Responsibilities:
+* Parse the commands from JShell
+* Error check the commands
+* Execute and call the necessary classes
+
+Collaborators:
+* Cat
+* ChangeDirectory
+* Echo
+* Echo Append
+* Echo Create
+* Find
+* History
+* Ls
+* MakeDirectory
+* Man
+* PushAndPopd
+* Tree
+* Pwd
+* FileSystem
+* Tree

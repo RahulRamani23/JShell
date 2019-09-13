@@ -1,0 +1,7 @@
+Class name: Tree
+
+Responsibilities:
+* traverse through all directories from the root and build a tree
+
+Collaborators:
+* Directory

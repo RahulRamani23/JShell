@@ -1,0 +1,10 @@
+class name: PathCheck
+Subclasses: Cat, ChagneDirectory, EchoAppend, Find, Ls, MakeDirectory
+Responsibilities:
+* Checks if given path is absolute or relative
+* generates a full path
+* checks if given path is valid
+* Parses Directory and finds the directory at a given path
+Collaborators: 
+* Directory
+

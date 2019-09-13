@@ -1,0 +1,9 @@
+Class name: EchoAppend
+Parent class: PathCheck 
+Subclasses: EchoCreate
+Responsibilities:
+* Create the file at the given path if it does not exist
+* add text to the end of the given file path
+
+Collaborators:
+* FileType

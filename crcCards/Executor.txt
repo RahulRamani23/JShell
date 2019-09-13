@@ -1,0 +1,10 @@
+Class name: Executor
+
+Responsibilities:
+* execute a given command
+* appends content from command to a file
+* creates file with content from command
+
+Collaborators:
+* Command
+

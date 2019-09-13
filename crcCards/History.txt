@@ -1,0 +1,6 @@
+Class name: History
+Responsibilities:
+* print out the nth most recent commands or all executed commands
+* print out recent commands with syntactical errors
+Collaborators:
+* Stack

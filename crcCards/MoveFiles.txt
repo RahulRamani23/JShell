@@ -1,0 +1,8 @@
+Class name: MoveFiles
+Responsibilities:
+* Copy file from the source to the destination then remove the file from the source
+* Check to ensure the file at the source doesn't exist at the destination
+Collaborators:
+* FileSystem
+* FileType
+

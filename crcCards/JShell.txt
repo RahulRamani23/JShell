@@ -1,0 +1,10 @@
+Class name: Jshell
+
+Responsibilities:
+* Take in user commands
+* send to parser to be parsed
+* Hold the working FileSystem
+Collaborators:
+* Pwd
+* ParseCommand
+* FileSystem

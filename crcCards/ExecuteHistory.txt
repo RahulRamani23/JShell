@@ -1,0 +1,6 @@
+Class name: ExecuteHistory
+Responsibilities:
+* Given a position value to a corresponding command from the history, re-executes that command
+
+Collaborators: 
+* History

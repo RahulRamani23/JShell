@@ -1,0 +1,6 @@
+Class name: Stack
+Responsibilities:
+* Push an item on to the top of th stack
+* pop an item off the top of the stack
+* Show the number of items in the stack
+

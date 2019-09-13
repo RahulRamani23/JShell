@@ -1,0 +1,9 @@
+Class name: Cp
+Parent class: PathCheck
+Responsibilities:
+* copy a desired file or directory to a target path
+Collaborators:
+* FileSystem
+* Directory
+* File
+* ValidityCheckCp

@@ -1,0 +1,3 @@
+Class name: ValidityCheckPopd
+Responsibilities:
+* check that the correct paramaters were passed to popd

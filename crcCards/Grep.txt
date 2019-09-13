@@ -1,0 +1,8 @@
+Class name: Grep
+Parent Class: PathCheck
+Responsibilities:
+Print any lines containing the regex in the file
+Recursively traverse the given directory path, in which for all lines in all files $ that the contain REGEX, the path to the file
+Collaborators:
+* Cat
+* FileSystems

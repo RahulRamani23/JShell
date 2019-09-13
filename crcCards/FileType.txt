@@ -1,0 +1,5 @@
+Class name: FileType
+Subclasses: File, Directory
+Responsibilities:
+* compare type of file with string
+* return the name of the file

@@ -1,0 +1,10 @@
+Class name: PushAndPopd
+Responsibilities:
+* Store current working directory to be accessed later
+* change to a given directory
+* go to the most recent directory added
+Collaborators:
+* Stack
+* ChangeDirectory
+
+

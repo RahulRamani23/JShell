@@ -1,0 +1,14 @@
+Class name: Directory
+Parent class: FileType
+Responsibilities:
+* hold files and/or other directories
+* return parent directory
+* add files file and/or directories
+* delete a file and/or directories
+* return the number of files/directories in the directory
+* find a specific file or directory within the directory
+* return copy of itself with new parent
+* return the parent directory
+
+Collaborators:
+* FileType

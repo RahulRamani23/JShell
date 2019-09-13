@@ -1,0 +1,10 @@
+Class name: Find
+Parent class: PathCheck
+
+Responsibilities:
+* search for a directory in one or more paths
+* search for a file in one or paths
+* return if a file/directory exists in those paths
+
+Collaborators:
+* FileSystem

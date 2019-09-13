@@ -1,0 +1,8 @@
+Class name: ChangeDirectory
+Parent class: PathCheck
+Responsibilities:
+* Ensure given path points to a directory and not a file
+* Change the current working directory to the given path
+Collaborators:
+* Pwd
+
